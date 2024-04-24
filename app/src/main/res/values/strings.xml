@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">List</string>
     <string name="banner">📋 Listownik 📋</string>
-    <string name="button1">Dopisz</string>
+    <string name="button1">Do góry</string>
+    <string name="button3">Na dół</string>
     <string name="button2">Wyczyść</string>
 </resources>
